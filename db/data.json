@@ -61,7 +61,7 @@
   ],
   "profile": {
     "id": 101,
-    "username": "Roman_13s",
+    "username": "Roman_13!",
     "profile_pic": "Storys/stry_4.png"
   },
   "suggestions": [
@@ -124,6 +124,10 @@
     {
       "id": "101",
       "username": "john_doe"
+    },
+    {
+      "id": "103",
+      "username": "rishi_travel"
     }
   ]
 }
