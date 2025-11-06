@@ -1,0 +1,129 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "Dp/john.jpg"
+      },
+      "image": "Posts/post1.jpg",
+      "caption": "Beautiful sunset 🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "maya_sen",
+        "profile_pic": "Dp/maya.jpg"
+      },
+      "image": "Posts/post2.jpeg",
+      "caption": "Late night coding ☕💻 #Coding",
+      "likes": 87,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Respect for the grind!"
+        }
+      ],
+      "timestamp": "2025-03-08T22:10:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "rishi_travels",
+        "profile_pic": "Dp/rishi.jpg"
+      },
+      "image": "Posts/post3.jpg",
+      "caption": "Playing Ps2 Games 🎮😍 #Gameplay",
+      "likes": 203,
+      "comments": [
+        {
+          "user": "maya_sen",
+          "comment": "Dream destination!"
+        }
+      ],
+      "timestamp": "2025-04-21T09:00:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "Roman_13s",
+    "profile_pic": "Storys/stry_4.png"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "john_doe",
+      "profile_pic": "Dp/john.jpg"
+    },
+    {
+      "id": "102",
+      "username": "maya_sen",
+      "profile_pic": "Dp/maya.jpg"
+    },
+    {
+      "id": "103",
+      "username": "rishi_travel",
+      "profile_pic": "Dp/rishi.jpg"
+    },
+    {
+      "id": "104",
+      "username": "Roman_regins",
+      "profile_pic": "Dp/john.jpg"
+    },
+    {
+      "id": "105",
+      "username": "Rishipedia_Yt",
+      "profile_pic": "Dp/under.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "Dp/john.jpg"
+      },
+      "image": "Storys/stry_1.png"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "maya_sen",
+        "profile_pic": "Dp/maya.jpg"
+      },
+      "image": "Storys/stry_2.png"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "rishi_travel",
+        "profile_pic": "Dp/under.jpg"
+      },
+      "image": "Storys/stry_3.png"
+    }
+  ],
+  "followers": [
+    {
+      "id": "101",
+      "username": "john_doe"
+    }
+  ]
+}
