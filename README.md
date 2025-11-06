@@ -37,7 +37,6 @@ npm start
 ```
 
 ---
----
 
 ## License
 
