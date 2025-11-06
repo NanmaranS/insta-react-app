@@ -1,21 +1,46 @@
-<<<<<<< HEAD
-# React + Vite
+# Insta-React-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Instagram-like React application where users can view profiles, follow/unfollow, and update profile information.  
+This project demonstrates full **CRUD functionality** with React and a JSON-based backend.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Overview
 
-## React Compiler
+- **View Profiles (Read):** Fetch and display user profiles from the backend.  
+- **Update Profile (Update):** Edit username or profile picture.  
+- **Follow Users (Create):** Click "Follow" to create a new follow relationship.  
+- **Unfollow Users (Delete):** Click "Unfollow" to remove the follow relationship.  
+- **Full CRUD Implementation:** All Create, Read, Update, Delete operations are fully functional.  
+- **Responsive UI:** Designed with React and Bootstrap for clean layout.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# insta-react-app
-Instagram Clone | React Frontend (CRUD) A React-based Instagram clone with full frontend CRUD for profiles and followers. Users can view/edit profiles, follow/unfollow dynamically, and fetch posts. Built with React hooks and Bootstrap for a responsive, interactive UI.
->>>>>>> b44456b85d28f951edfe3812d06a0daf4275c08b
+- React, JSX, Bootstrap  
+- JSON Server (for backend)  
+- Axios (HTTP requests)  
+- React Router DOM  
+
+---
+
+## How to Run the Project
+
+Open your terminal and run the following commands **step by step**:
+
+```bash
+cd insta-react-app
+npm install
+npx json-server --watch db/data.json --port 3000
+npm start
+```
+
+---
+---
+
+## License
+
+**Insta-React-App** is an open-source project that demonstrates full **CRUD functionality** using React and a JSON-based backend.  
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute it for personal or educational purposes.  
