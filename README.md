@@ -3,7 +3,8 @@
 A simple Instagram-like React application where users can view profiles, follow/unfollow, and update profile information.  
 This project demonstrates full **CRUD functionality** with React and a JSON-based backend.
 
----
+---![Pizza (2)](https://github.com/user-attachments/assets/0e0f7d0b-5026-4539-8f7a-eb12bb93f0c7)
+
 
 ## Project Overview
 
