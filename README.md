@@ -28,13 +28,18 @@ Axios (HTTP requests)
 React Router DOM
 
 Screenshots & GIFs
+
 Home Page
+
 
 Create / Follow User
 
+
 Update Profile
 
+
 Delete / Unfollow User
+
 
 How to Run the Project
 
