@@ -1,59 +1,45 @@
-Insta-React-App
+# Insta-React-App
 
-A simple Instagram-like React application where users can view profiles, follow/unfollow, and update profile information.
+A simple Instagram-like React application where users can view profiles, follow/unfollow, and update profile information.  
 This project demonstrates full CRUD functionality with React and a JSON-based backend.
 
-Project Overview
+## Project Overview
 
-View Profiles (Read): Fetch and display user profiles from the backend.
+- **View Profiles (Read):** Fetch and display user profiles from the backend.  
+- **Update Profile (Update):** Edit username or profile picture.  
+- **Follow Users (Create):** Click "Follow" to create a new follow relationship.  
+- **Unfollow Users (Delete):** Click "Unfollow" to remove the follow relationship.  
+- **Full CRUD Implementation:** All Create, Read, Update, Delete operations are fully functional.  
+- **Responsive UI:** Designed with React and Bootstrap for a clean layout.  
 
-Update Profile (Update): Edit username or profile picture.
+## Technologies Used
 
-Follow Users (Create): Click "Follow" to create a new follow relationship.
+- React, JSX, Bootstrap  
+- JSON Server (for backend)  
+- Axios (HTTP requests)  
+- React Router DOM  
 
-Unfollow Users (Delete): Click "Unfollow" to remove the follow relationship.
+## Screenshots
 
-Full CRUD Implementation: All Create, Read, Update, Delete operations are fully functional.
+**Home Page**  
+![Home Page](https://github.com/user-attachments/assets/ed9a3846-0d49-4aa4-a56c-7c0139106780)
 
-Responsive UI: Designed with React and Bootstrap for a clean layout.
+**Profile Page**  
+![Profile Page](https://github.com/user-attachments/assets/79a5558d-e475-4fac-adc4-e6a95e3de513)
 
-Technologies Used
+## How to Run the Project
 
-React, JSX, Bootstrap
+1. Install dependencies:  
+   ```bash
+   npm install
+   
+2. Start the development server:
+   npm run dev
 
-JSON Server (for backend)
+3. In another terminal tab, start the JSON server:
+   npx json-server --watch db/data.json --port 3000
 
-Axios (HTTP requests)
-
-React Router DOM
-
-Screenshots
-
-Home Page
-
-
-Profile Page
-
-
-How to Run the Project
-
-Install dependencies:
-
-npm install
-
-
-Start the development server:
-
-npm run dev
-
-
-In another terminal tab, start the JSON server:
-
-npx json-server --watch db/data.json --port 3000
-
-
-Open your browser and go to http://localhost:5173
- to view the app.
+4. Open your browser and go to http://localhost:5173 to view the app.
 
 License
 
