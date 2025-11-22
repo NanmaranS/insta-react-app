@@ -48,7 +48,7 @@ This project demonstrates full CRUD functionality with React and a JSON-based ba
    http://localhost:5173
 
 
-License
+## License
 
 Insta-React-App is an open-source project that demonstrates full CRUD functionality using React and a JSON-based backend.
 
