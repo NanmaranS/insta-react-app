@@ -1,9 +1,9 @@
-Insta-React-App
+#      Insta-React-App
 
 A simple Instagram-like React application where users can view profiles, follow/unfollow, and update profile information.
 This project demonstrates full CRUD functionality with React and a JSON-based backend.
 
-Project Overview
+# Project Overview
 
 View Profiles (Read): Fetch and display user profiles from the backend.
 
@@ -17,7 +17,7 @@ Full CRUD Implementation: All Create, Read, Update, Delete operations are fully 
 
 Responsive UI: Designed with React and Bootstrap for a clean layout.
 
-Technologies Used
+# Technologies Used
 
 React, JSX, Bootstrap
 
@@ -27,7 +27,7 @@ Axios (HTTP requests)
 
 React Router DOM
 
-Screenshot
+# Screenshots
 
 🏠 Home Page
 
@@ -38,7 +38,7 @@ Screenshot
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/79a5558d-e475-4fac-adc4-e6a95e3de513" />
 
 
-How to Run the Project
+# How to Run the Project
 
 Open your terminal and run the following commands step by step:
 
@@ -54,7 +54,7 @@ npx json-server --watch db/data.json --port 3000
 # Open the App
 Then open http://localhost:5173 in your browser to view the app.
 
-License
+# License
 
 Insta-React-App is an open-source project that demonstrates full CRUD functionality using React and a JSON-based backend.
 
