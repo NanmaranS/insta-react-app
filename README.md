@@ -33,7 +33,7 @@ Screenshot
 
 <img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/ed9a3846-0d49-4aa4-a56c-7c0139106780" />
 
-Profile Page
+🖼️ Profile Page
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/79a5558d-e475-4fac-adc4-e6a95e3de513" />
 
