@@ -42,10 +42,18 @@ How to Run the Project
 
 Open your terminal and run the following commands step by step:
 
-# npm install
-# npm run dev
-# npx json-server --watch db/data.json --port 3000
-# npm start
+# Install Dependencies
+npm install
+
+# Start the Development Server
+npm run dev
+
+# In Another Terminal Tab, Start the JSON Server
+npx json-server --watch db/data.json --port 3000
+
+# Open the App
+After running `npm run dev`, open your browser and go to:   http://localhost:5173
+
 
 
 Then open http://localhost:3173 in your browser to view the app.
