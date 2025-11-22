@@ -34,12 +34,17 @@ This project demonstrates full CRUD functionality with React and a JSON-based ba
    npm install
    
 2. Start the development server:
+   ```bash
    npm run dev
 
 3. In another terminal tab, start the JSON server:
-   npx json-server --watch db/data.json --port 3000
+    ```bash
+    npx json-server --watch db/data.json --port 3000
 
-4. Open your browser and go to http://localhost:5173 to view the app.
+4. Open your browser and go to
+   ```bash
+   http://localhost:5173
+ to view the app.
 
 License
 
