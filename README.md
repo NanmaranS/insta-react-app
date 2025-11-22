@@ -15,7 +15,9 @@ Unfollow Users (Delete): Click "Unfollow" to remove the follow relationship.
 
 Full CRUD Implementation: All Create, Read, Update, Delete operations are fully functional.
 
-Responsive UI: Designed with React and Bootstrap for a clean layout. #
+Responsive UI: Designed with React and Bootstrap for a clean layout. 
+
+#
 
 # Technologies Used
 
