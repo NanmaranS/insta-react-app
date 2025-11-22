@@ -52,11 +52,7 @@ npm run dev
 npx json-server --watch db/data.json --port 3000
 
 # Open the App
-After running `npm run dev`, open your browser and go to:   http://localhost:5173
-
-
-
-Then open http://localhost:3173 in your browser to view the app.
+Then open http://localhost:5173 in your browser to view the app.
 
 License
 
